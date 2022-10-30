@@ -1,0 +1,19 @@
+
+
+.registration-form
+{
+    width: 800px;
+    margin: 10px auto;
+}
+.valid-feedback , .invalid-feedback
+{
+    display: none;
+}
+#country
+{
+   width: 300px;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   margin: auto;
+}
